@@ -1,0 +1,15 @@
+_Lcd_Init: CODE, 1281 0 170
+_Lcd_Out: CODE, 923 0 56
+_Lcd_Out2: CODE, 816 0 53
+__stringdata: STRCODE, 2058 0 40
+_Lcd_Chr_CP: CODE, 1128 0 153
+_dpowers: STRCODE, 2048 0 10
+_main: CODE, 1451 0 196
+_Lcd_Cmd: CODE, 979 0 149
+__initialization: CODE, 2044 0 0
+___lwdiv: CODE, 869 0 54
+_isdigit: CODE, 727 0 14
+_sprintf: CODE, 1647 0 397
+___lwmod: CODE, 770 0 46
+___wmul: CODE, 741 0 29
+Total: 1367

@@ -1,0 +1,9 @@
+_Lcd_Init: CODE, 1681 0 170
+_Lcd_Out2: CODE, 1241 0 53
+__stringdata: STRCODE, 2048 0 9
+_Lcd_Chr_CP: CODE, 1524 0 157
+_main: CODE, 1851 0 193
+_Lcd_Cmd: CODE, 1371 0 153
+__initialization: CODE, 2044 0 0
+_sprintf: CODE, 1294 0 77
+Total: 812
